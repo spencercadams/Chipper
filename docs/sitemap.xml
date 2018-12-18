@@ -3,20 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://spencercadams.github.io/chipper/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://spencercadams.github.io/chipper/tags/</loc>
-    <changefreq>monthly</changefreq>
+    <loc>https://spencercadams.github.io/chipper/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://spencercadams.github.io/chipper/</loc>
-    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://spencercadams.github.io/chipper/tags/</loc>
     <priority>0</priority>
   </url>
   
