@@ -1,8 +1,7 @@
 title = "The Chipper Company "
 baseURL = "https://spencercadams.github.io/chipper"
 languageCode = "en-us"
-theme = "ananke"
-themesDir = "../.."
+theme = "gohugo-theme-ananke"
 publishDir = "docs"
 
 MetaDataFormat = "yaml"
