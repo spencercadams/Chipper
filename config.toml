@@ -55,10 +55,10 @@ publishDir = "docs"
 
   [[menu.main]]
     name = "Posts"
-    url = "/posts/"
+    url = "docs/posts/"
     weight = 10
 
   [[menu.main]]
     name = "About"
-    url = "/about-hugo/"
+    url = "docs/about-hugo/"
     weight = 20
