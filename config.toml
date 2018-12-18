@@ -1,4 +1,4 @@
-baseURL = "spencercadams.github.io/chipper.git"
+baseURL = "https://spencercadams.github.io/chipper/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "The Chipper Company"
