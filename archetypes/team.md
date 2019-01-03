@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
 draft: false
-image: "/team/default.png"
+image: " "
 jobtitle: "Employee"
 email: 'test@test.com'
 linkedinurl: 'https://www.linkedin.com/'

@@ -1,6 +1,6 @@
 baseURL = "https://spencercadams.github.io/chipper"
 languageCode = "en-us"
-title = "Hugo Serif"
+title = "Lindsey's Bakeshop"
 theme = "hugo-serif-theme"
 publishDir = "docs"
 
@@ -8,8 +8,8 @@ publishDir = "docs"
 #google_analytics_id=""
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Tastings"
+	url = "/tasting/"
     weight = 1
 
 [[menu.main]]

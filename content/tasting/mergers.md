@@ -1,10 +1,9 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
-image: " "
+title: "Mergers"
+date: 2018-11-28T15:15:34+10:00
+image: ""
 featured: true
 draft: false
-weight: 100
 ---
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum

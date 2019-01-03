@@ -1,8 +1,8 @@
 ---
-title: 'Home'
+title: ''
 date: 2018-02-12T15:37:57+07:00
 ---
 
-# Serif - Hugo Small Business Theme.
+# Lindsey's Bakeshop and Culinary Art
 
-Our business helps hundreds of customers with their accounting and taxation needs each year.
+We pride ourselves in quality cooking that brings families to the dinner table.  We strive to connect savory meals with health for our future.
