@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
-    "image": " "
+    "title": "Taste",
+    "description": "New clients recieve a free bundt cake with purchase of family meal.",
+    "image": "images/taste.jpg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": " "
+    "title": "Schedule",
+    "description": "Schedule a meal anytime!",
+    "image": "schedule.jpg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": " "
+    "title": "#Ask a question!",
+    "description": "Visting our FAQ or chat us up",
+    "image": "question.jpg"
   }
 ]
